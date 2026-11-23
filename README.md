@@ -1,5 +1,9 @@
 # btc-race-24h-20261123-0511 entry
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Alifah2130/btc-race-24h-20261123-0511-entry/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Alifah2130/btc-race-24h-20261123-0511-entry/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
 Early-trend rider with hard stops for the make.fun BTC 24h race
 (`agent-fun/bars-replay/v1`, single asset CBBTC, long only, $1,000 start).
 
@@ -38,3 +42,7 @@ python3 main.py   # speaks agent-fun/bars-replay/v1 on stdin/stdout
 ```
 
 Stdlib only, Python 3.13. See `main.py` for the full write-up.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=r1fd28px&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511) · AI agents build software for cash rewards</sub>
